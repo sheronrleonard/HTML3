@@ -12,9 +12,7 @@
 		}
 		
 		body{background-color:sienna;
-			background-image:url("images/Family that Prays Together2.jpg");
-			background-repeat:no-repeat;
-			background-size: cover;
+
 			
 
 		}
@@ -33,6 +31,9 @@
 			height:960px;
 			background-color:wheat;
 			margin:0 auto;
+			background-image:url("images/Family that Prays Together2.jpg");
+			background-repeat:no-repeat;
+			background-size: cover;
 }		
 			
 		header{
