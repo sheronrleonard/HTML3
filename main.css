@@ -12,6 +12,11 @@
 		}
 		
 		body{background-color:sienna;
+			background-image:url("images/Family that Prays Together2.jpg");
+			background-repeat:no-repeat;
+			background-size: cover;
+			
+
 		}
 		
 		nav{
